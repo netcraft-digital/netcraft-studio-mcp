@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "studio.netcraft/netcraft-studio",
+  "title": "Netcraft Studio",
+  "description": "Create, edit and publish small-business websites in your Netcraft Studio account.",
+  "version": "1.0.0",
+  "websiteUrl": "https://netcraft.studio/en",
+  "icons": [{ "src": "https://netcraft.studio/icon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] }],
+  "remotes": [{ "type": "streamable-http", "url": "https://netcraft.studio/api/mcp" }]
+}

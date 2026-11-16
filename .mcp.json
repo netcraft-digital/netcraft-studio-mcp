@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "netcraft-studio": {
+      "type": "http",
+      "url": "https://netcraft.studio/api/mcp"
+    }
+  }
+}
