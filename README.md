@@ -33,7 +33,7 @@ confirm first. Buying a plan or a domain stays in the Netcraft Studio dashboard.
 
 ## Connect
 
-You need a Netcraft Studio account. Creating one is free, from <https://netcraft.studio/en>.
+You need a Netcraft Studio account. Creating one is free: <https://netcraft.studio/en/register>.
 
 **Claude** (claude.ai or the desktop app): Settings → Connectors → Add custom connector, then paste
 `https://netcraft.studio/api/mcp`.
